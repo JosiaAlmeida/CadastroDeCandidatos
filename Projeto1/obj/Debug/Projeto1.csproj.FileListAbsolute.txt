@@ -1,0 +1,46 @@
+C:\Users\ALMEIDA\Documents\Data base JA, Dont click here please\Projeto1\Projeto1\bin\Debug\Projeto1.exe.config
+C:\Users\ALMEIDA\Documents\Data base JA, Dont click here please\Projeto1\Projeto1\bin\Debug\Projeto1.exe
+C:\Users\ALMEIDA\Documents\Data base JA, Dont click here please\Projeto1\Projeto1\bin\Debug\Projeto1.pdb
+C:\Users\ALMEIDA\Documents\Data base JA, Dont click here please\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.AssemblyReference.cache
+C:\Users\ALMEIDA\Documents\Data base JA, Dont click here please\Projeto1\Projeto1\obj\Debug\Projeto1.Form1.resources
+C:\Users\ALMEIDA\Documents\Data base JA, Dont click here please\Projeto1\Projeto1\obj\Debug\Projeto1.Properties.Resources.resources
+C:\Users\ALMEIDA\Documents\Data base JA, Dont click here please\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.GenerateResource.cache
+C:\Users\ALMEIDA\Documents\Data base JA, Dont click here please\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\ALMEIDA\Documents\Data base JA, Dont click here please\Projeto1\Projeto1\obj\Debug\Projeto1.exe
+C:\Users\ALMEIDA\Documents\Data base JA, Dont click here please\Projeto1\Projeto1\obj\Debug\Projeto1.pdb
+E:\Projeto1\Projeto1\bin\Debug\Projeto1.exe.config
+E:\Projeto1\Projeto1\bin\Debug\Projeto1.exe
+E:\Projeto1\Projeto1\bin\Debug\Projeto1.pdb
+E:\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.AssemblyReference.cache
+E:\Projeto1\Projeto1\obj\Debug\Projeto1.Form1.resources
+E:\Projeto1\Projeto1\obj\Debug\Projeto1.Properties.Resources.resources
+E:\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.GenerateResource.cache
+E:\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.CoreCompileInputs.cache
+E:\Projeto1\Projeto1\obj\Debug\Projeto1.exe
+E:\Projeto1\Projeto1\obj\Debug\Projeto1.pdb
+E:\Projeto1\Projeto1\obj\Debug\Projeto1.Formulario.Inscrever.resources
+E:\Projeto1\Projeto1\obj\Debug\Projeto1.Formulario.Consultar.resources
+E:\Projeto1\Projeto1\obj\Debug\Projeto1.Formulario.Eliminar.resources
+E:\Projeto1\Projeto1\obj\Debug\Projeto1.Formulario.Listar.resources
+E:\Projeto1\Projeto1\obj\Debug\Projeto1.Formulario.Atualizar.resources
+E:\Projeto1\Projeto1\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Projeto1\Projeto1\obj\Debug\Projeto1.Formulario.Estatistica.resources
+E:\Nova pasta (2)\Projeto1\Projeto1\bin\Debug\Projeto1.exe.config
+E:\Nova pasta (2)\Projeto1\Projeto1\bin\Debug\Projeto1.exe
+E:\Nova pasta (2)\Projeto1\Projeto1\bin\Debug\Projeto1.pdb
+E:\Nova pasta (2)\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.AssemblyReference.cache
+E:\Nova pasta (2)\Projeto1\Projeto1\obj\Debug\Projeto1.Form1.resources
+E:\Nova pasta (2)\Projeto1\Projeto1\obj\Debug\Projeto1.Formulario.Atualizar.resources
+E:\Nova pasta (2)\Projeto1\Projeto1\obj\Debug\Projeto1.Formulario.Consultar.resources
+E:\Nova pasta (2)\Projeto1\Projeto1\obj\Debug\Projeto1.Formulario.Eliminar.resources
+E:\Nova pasta (2)\Projeto1\Projeto1\obj\Debug\Projeto1.Formulario.Estatistica.resources
+E:\Nova pasta (2)\Projeto1\Projeto1\obj\Debug\Projeto1.Formulario.Inscrever.resources
+E:\Nova pasta (2)\Projeto1\Projeto1\obj\Debug\Projeto1.Formulario.Listar.resources
+E:\Nova pasta (2)\Projeto1\Projeto1\obj\Debug\Projeto1.Properties.Resources.resources
+E:\Nova pasta (2)\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.GenerateResource.cache
+E:\Nova pasta (2)\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.CoreCompileInputs.cache
+E:\Nova pasta (2)\Projeto1\Projeto1\obj\Debug\Projeto1.exe
+E:\Nova pasta (2)\Projeto1\Projeto1\obj\Debug\Projeto1.pdb
+E:\Nova pasta (2)\Projeto1\Projeto1\obj\Debug\Projeto1.DadosFuncionario.resources
+E:\Nova pasta (2)\Projeto1\Projeto1\obj\Debug\Projeto1.FuncionarioLogin.resources
+E:\Nova pasta (2)\Projeto1\Projeto1\obj\Debug\Projeto1.Menu.resources
